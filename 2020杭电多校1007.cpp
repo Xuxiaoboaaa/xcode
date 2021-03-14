@@ -1,3 +1,8 @@
+/*
+做法：树形dp+二分
+二分树的最大值，判断的时候 dp以该点为根的子树的最长路径，我们知道直径是最大的路径，
+所以肯定会被包含在里面
+*/
 #include <iostream>
 #include <cstdio>
 #include <fstream>
