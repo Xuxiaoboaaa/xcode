@@ -1,3 +1,6 @@
+/*
+最小斯坦纳树板子题
+*/
 #include<bits/stdc++.h>
 using namespace std;
 #define pii pair<int, int>
